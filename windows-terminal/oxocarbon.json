@@ -1,0 +1,92 @@
+{
+  "$help": "https://github.com/nyoom-engineering/oxocarbon.nvim",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "schemes": [
+    {
+      "name": "Oxocarbon Dark",
+      "background": "#161616",
+      "foreground": "#D0D0D0",
+      "cursorColor": "#78A9FF",
+      "selectionBackground": "#393939",
+      "black": "#262626",
+      "red": "#EE5396",
+      "green": "#42BE65",
+      "yellow": "#FFE97B",
+      "blue": "#33B1FF",
+      "purple": "#FF7EB6",
+      "cyan": "#3DDBD9",
+      "white": "#DDE1E6",
+      "brightBlack": "#525252",
+      "brightRed": "#FF7EB6",
+      "brightGreen": "#42BE65",
+      "brightYellow": "#FFE97B",
+      "brightBlue": "#78A9FF",
+      "brightPurple": "#BE95FF",
+      "brightCyan": "#82CFFF",
+      "brightWhite": "#FFFFFF"
+    },
+    {
+      "name": "Oxocarbon Light",
+      "background": "#FFFFFF",
+      "foreground": "#37474F",
+      "cursorColor": "#0F62FE",
+      "selectionBackground": "#D0D0D0",
+      "black": "#525252",
+      "red": "#EE5396",
+      "green": "#42BE65",
+      "yellow": "#FF6F00",
+      "blue": "#0F62FE",
+      "purple": "#673AB7",
+      "cyan": "#08BDBA",
+      "white": "#D0D0D0",
+      "brightBlack": "#161616",
+      "brightRed": "#EE5396",
+      "brightGreen": "#42BE65",
+      "brightYellow": "#FF6F00",
+      "brightBlue": "#0F62FE",
+      "brightPurple": "#673AB7",
+      "brightCyan": "#08BDBA",
+      "brightWhite": "#FFFFFF"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Oxocarbon Dark",
+      "window": {
+        "applicationTheme": "dark",
+        "useMica": false,
+        "frame": "#78A9FF",
+        "unfocusedFrame": "#393939"
+      },
+      "tabRow": {
+        "background": "#262626",
+        "unfocusedBackground": "#1E1E1E"
+      },
+      "tab": {
+        "background": "terminalBackground",
+        "unfocusedBackground": "#202020",
+        "showCloseButton": "activeOnly",
+        "iconStyle": "monochrome"
+      }
+    },
+    {
+      "name": "Oxocarbon Light",
+      "window": {
+        "applicationTheme": "light",
+        "useMica": false,
+        "frame": "#0F62FE",
+        "unfocusedFrame": "#D0D0D0"
+      },
+      "tabRow": {
+        "background": "#F2F2F2",
+        "unfocusedBackground": "#E8E8E8"
+      },
+      "tab": {
+        "background": "terminalBackground",
+        "unfocusedBackground": "#ECECEC",
+        "showCloseButton": "activeOnly",
+        "iconStyle": "monochrome"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="532" viewBox="0 0 1120 532" role="img" aria-labelledby="title desc">
+<title id="title">Oxocarbon palette preview</title>
+<desc id="desc">Base16 color swatches for the Oxocarbon dark and light palettes</desc>
+<style>
+    text { font-family: "SFMono-Regular", "Cascadia Code", Consolas, "Liberation Mono", monospace; }
+  </style>
+<rect x="24" y="24" width="1072" height="232" rx="10" fill="#161616" stroke="#393939"/>
+<text x="50" y="68" font-size="22" font-weight="700" fill="#f2f2f2">Oxocarbon Dark</text>
+<text x="1070" y="68" font-size="13" text-anchor="end" fill="#90a4ae">Base16 · 16 colors</text>
+<g>
+<rect x="50" y="96" width="117" height="62" rx="6" fill="#161616" stroke="#ffffff22"/>
+<text x="60" y="121" font-size="13" font-weight="700" fill="#ffffff">base00</text>
+<text x="60" y="143" font-size="13" fill="#ffffff" opacity="0.85">#161616</text>
+</g>
+<g>
+<rect x="179" y="96" width="117" height="62" rx="6" fill="#262626" stroke="#ffffff22"/>
+<text x="189" y="121" font-size="13" font-weight="700" fill="#ffffff">base01</text>
+<text x="189" y="143" font-size="13" fill="#ffffff" opacity="0.85">#262626</text>
+</g>
+<g>
+<rect x="308" y="96" width="117" height="62" rx="6" fill="#393939" stroke="#ffffff22"/>
+<text x="318" y="121" font-size="13" font-weight="700" fill="#ffffff">base02</text>
+<text x="318" y="143" font-size="13" fill="#ffffff" opacity="0.85">#393939</text>
+</g>
+<g>
+<rect x="437" y="96" width="117" height="62" rx="6" fill="#525252" stroke="#ffffff22"/>
+<text x="447" y="121" font-size="13" font-weight="700" fill="#ffffff">base03</text>
+<text x="447" y="143" font-size="13" fill="#ffffff" opacity="0.85">#525252</text>
+</g>
+<g>
+<rect x="566" y="96" width="117" height="62" rx="6" fill="#d0d0d0" stroke="#ffffff22"/>
+<text x="576" y="121" font-size="13" font-weight="700" fill="#161616">base04</text>
+<text x="576" y="143" font-size="13" fill="#161616" opacity="0.85">#d0d0d0</text>
+</g>
+<g>
+<rect x="695" y="96" width="117" height="62" rx="6" fill="#f2f2f2" stroke="#ffffff22"/>
+<text x="705" y="121" font-size="13" font-weight="700" fill="#161616">base05</text>
+<text x="705" y="143" font-size="13" fill="#161616" opacity="0.85">#f2f2f2</text>
+</g>
+<g>
+<rect x="824" y="96" width="117" height="62" rx="6" fill="#ffffff" stroke="#ffffff22"/>
+<text x="834" y="121" font-size="13" font-weight="700" fill="#161616">base06</text>
+<text x="834" y="143" font-size="13" fill="#161616" opacity="0.85">#ffffff</text>
+</g>
+<g>
+<rect x="953" y="96" width="117" height="62" rx="6" fill="#08bdba" stroke="#ffffff22"/>
+<text x="963" y="121" font-size="13" font-weight="700" fill="#161616">base07</text>
+<text x="963" y="143" font-size="13" fill="#161616" opacity="0.85">#08bdba</text>
+</g>
+<g>
+<rect x="50" y="170" width="117" height="62" rx="6" fill="#3ddbd9" stroke="#ffffff22"/>
+<text x="60" y="195" font-size="13" font-weight="700" fill="#161616">base08</text>
+<text x="60" y="217" font-size="13" fill="#161616" opacity="0.85">#3ddbd9</text>
+</g>
+<g>
+<rect x="179" y="170" width="117" height="62" rx="6" fill="#78a9ff" stroke="#ffffff22"/>
+<text x="189" y="195" font-size="13" font-weight="700" fill="#161616">base09</text>
+<text x="189" y="217" font-size="13" fill="#161616" opacity="0.85">#78a9ff</text>
+</g>
+<g>
+<rect x="308" y="170" width="117" height="62" rx="6" fill="#ee5396" stroke="#ffffff22"/>
+<text x="318" y="195" font-size="13" font-weight="700" fill="#161616">base0A</text>
+<text x="318" y="217" font-size="13" fill="#161616" opacity="0.85">#ee5396</text>
+</g>
+<g>
+<rect x="437" y="170" width="117" height="62" rx="6" fill="#33b1ff" stroke="#ffffff22"/>
+<text x="447" y="195" font-size="13" font-weight="700" fill="#161616">base0B</text>
+<text x="447" y="217" font-size="13" fill="#161616" opacity="0.85">#33b1ff</text>
+</g>
+<g>
+<rect x="566" y="170" width="117" height="62" rx="6" fill="#ff7eb6" stroke="#ffffff22"/>
+<text x="576" y="195" font-size="13" font-weight="700" fill="#161616">base0C</text>
+<text x="576" y="217" font-size="13" fill="#161616" opacity="0.85">#ff7eb6</text>
+</g>
+<g>
+<rect x="695" y="170" width="117" height="62" rx="6" fill="#42be65" stroke="#ffffff22"/>
+<text x="705" y="195" font-size="13" font-weight="700" fill="#161616">base0D</text>
+<text x="705" y="217" font-size="13" fill="#161616" opacity="0.85">#42be65</text>
+</g>
+<g>
+<rect x="824" y="170" width="117" height="62" rx="6" fill="#be95ff" stroke="#ffffff22"/>
+<text x="834" y="195" font-size="13" font-weight="700" fill="#161616">base0E</text>
+<text x="834" y="217" font-size="13" fill="#161616" opacity="0.85">#be95ff</text>
+</g>
+<g>
+<rect x="953" y="170" width="117" height="62" rx="6" fill="#82cfff" stroke="#ffffff22"/>
+<text x="963" y="195" font-size="13" font-weight="700" fill="#161616">base0F</text>
+<text x="963" y="217" font-size="13" fill="#161616" opacity="0.85">#82cfff</text>
+</g>
+<rect x="24" y="276" width="1072" height="232" rx="10" fill="#ffffff" stroke="#d0d0d0"/>
+<text x="50" y="320" font-size="22" font-weight="700" fill="#161616">Oxocarbon Light</text>
+<text x="1070" y="320" font-size="13" text-anchor="end" fill="#525252">Base16 · 16 colors</text>
+<g>
+<rect x="50" y="348" width="117" height="62" rx="6" fill="#ffffff" stroke="#00000022"/>
+<text x="60" y="373" font-size="13" font-weight="700" fill="#161616">base00</text>
+<text x="60" y="395" font-size="13" fill="#161616" opacity="0.85">#ffffff</text>
+</g>
+<g>
+<rect x="179" y="348" width="117" height="62" rx="6" fill="#f2f2f2" stroke="#00000022"/>
+<text x="189" y="373" font-size="13" font-weight="700" fill="#161616">base01</text>
+<text x="189" y="395" font-size="13" fill="#161616" opacity="0.85">#f2f2f2</text>
+</g>
+<g>
+<rect x="308" y="348" width="117" height="62" rx="6" fill="#d0d0d0" stroke="#00000022"/>
+<text x="318" y="373" font-size="13" font-weight="700" fill="#161616">base02</text>
+<text x="318" y="395" font-size="13" fill="#161616" opacity="0.85">#d0d0d0</text>
+</g>
+<g>
+<rect x="437" y="348" width="117" height="62" rx="6" fill="#161616" stroke="#00000022"/>
+<text x="447" y="373" font-size="13" font-weight="700" fill="#ffffff">base03</text>
+<text x="447" y="395" font-size="13" fill="#ffffff" opacity="0.85">#161616</text>
+</g>
+<g>
+<rect x="566" y="348" width="117" height="62" rx="6" fill="#37474f" stroke="#00000022"/>
+<text x="576" y="373" font-size="13" font-weight="700" fill="#ffffff">base04</text>
+<text x="576" y="395" font-size="13" fill="#ffffff" opacity="0.85">#37474f</text>
+</g>
+<g>
+<rect x="695" y="348" width="117" height="62" rx="6" fill="#90a4ae" stroke="#00000022"/>
+<text x="705" y="373" font-size="13" font-weight="700" fill="#161616">base05</text>
+<text x="705" y="395" font-size="13" fill="#161616" opacity="0.85">#90a4ae</text>
+</g>
+<g>
+<rect x="824" y="348" width="117" height="62" rx="6" fill="#525252" stroke="#00000022"/>
+<text x="834" y="373" font-size="13" font-weight="700" fill="#ffffff">base06</text>
+<text x="834" y="395" font-size="13" fill="#ffffff" opacity="0.85">#525252</text>
+</g>
+<g>
+<rect x="953" y="348" width="117" height="62" rx="6" fill="#08bdba" stroke="#00000022"/>
+<text x="963" y="373" font-size="13" font-weight="700" fill="#161616">base07</text>
+<text x="963" y="395" font-size="13" fill="#161616" opacity="0.85">#08bdba</text>
+</g>
+<g>
+<rect x="50" y="422" width="117" height="62" rx="6" fill="#ff7eb6" stroke="#00000022"/>
+<text x="60" y="447" font-size="13" font-weight="700" fill="#161616">base08</text>
+<text x="60" y="469" font-size="13" fill="#161616" opacity="0.85">#ff7eb6</text>
+</g>
+<g>
+<rect x="179" y="422" width="117" height="62" rx="6" fill="#ee5396" stroke="#00000022"/>
+<text x="189" y="447" font-size="13" font-weight="700" fill="#161616">base09</text>
+<text x="189" y="469" font-size="13" fill="#161616" opacity="0.85">#ee5396</text>
+</g>
+<g>
+<rect x="308" y="422" width="117" height="62" rx="6" fill="#ff6f00" stroke="#00000022"/>
+<text x="318" y="447" font-size="13" font-weight="700" fill="#161616">base0A</text>
+<text x="318" y="469" font-size="13" fill="#161616" opacity="0.85">#ff6f00</text>
+</g>
+<g>
+<rect x="437" y="422" width="117" height="62" rx="6" fill="#0f62fe" stroke="#00000022"/>
+<text x="447" y="447" font-size="13" font-weight="700" fill="#ffffff">base0B</text>
+<text x="447" y="469" font-size="13" fill="#ffffff" opacity="0.85">#0f62fe</text>
+</g>
+<g>
+<rect x="566" y="422" width="117" height="62" rx="6" fill="#673ab7" stroke="#00000022"/>
+<text x="576" y="447" font-size="13" font-weight="700" fill="#ffffff">base0C</text>
+<text x="576" y="469" font-size="13" fill="#ffffff" opacity="0.85">#673ab7</text>
+</g>
+<g>
+<rect x="695" y="422" width="117" height="62" rx="6" fill="#42be65" stroke="#00000022"/>
+<text x="705" y="447" font-size="13" font-weight="700" fill="#161616">base0D</text>
+<text x="705" y="469" font-size="13" fill="#161616" opacity="0.85">#42be65</text>
+</g>
+<g>
+<rect x="824" y="422" width="117" height="62" rx="6" fill="#be95ff" stroke="#00000022"/>
+<text x="834" y="447" font-size="13" font-weight="700" fill="#161616">base0E</text>
+<text x="834" y="469" font-size="13" fill="#161616" opacity="0.85">#be95ff</text>
+</g>
+<g>
+<rect x="953" y="422" width="117" height="62" rx="6" fill="#ffab91" stroke="#00000022"/>
+<text x="963" y="447" font-size="13" font-weight="700" fill="#161616">base0F</text>
+<text x="963" y="469" font-size="13" fill="#161616" opacity="0.85">#ffab91</text>
+</g>
+</svg>

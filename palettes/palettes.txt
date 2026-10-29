@@ -1,0 +1,116 @@
+OXOCARBON — GENERIC PALETTE REFERENCE
+====================================
+
+Source: https://github.com/nyoom-engineering/oxocarbon.nvim
+Reference implementation: oxocarbon.nvim (dark + light).
+The gray ramp is generated in HSLuv between base00 and base06; the values
+below are the resolved output, not approximations.
+
+IMPORTANT: Oxocarbon uses Base16 *slots* but not Base16 *semantics*.
+Unlike a typical Base16 theme, base08 is not red and base0B is not green.
+Always use the explicit role names / ANSI mapping below when writing a port.
+
+
+DARK — Base16 palette
+---------------------
+base00  #161616  background
+base01  #262626  raised background, ANSI black
+base02  #393939  selection, visual
+base03  #525252  muted text, ANSI bright black
+base04  #d0d0d0  foreground (Normal)
+base05  #f2f2f2  bright foreground
+base06  #ffffff  ANSI bright white
+base07  #08bdba  teal
+base08  #3ddbd9  cyan
+base09  #78a9ff  blue
+base0A  #ee5396  red / pink
+base0B  #33b1ff  bright blue
+base0C  #ff7eb6  pink
+base0D  #42be65  green
+base0E  #be95ff  purple
+base0F  #82cfff  pale blue
+
+DARK — ANSI mapping
+-------------------
+normal:
+  black        #262626
+  red          #ee5396
+  green        #42be65
+  yellow       #ffe97b   [extension, not a Base16 slot]
+  blue         #33b1ff
+  purple       #ff7eb6
+  cyan         #3ddbd9
+  white        #dde1e6   [extension, not a Base16 slot]
+
+bright:
+  brightBlack  #525252
+  brightRed    #ff7eb6
+  brightGreen  #42be65
+  brightYellow #ffe97b
+  brightBlue   #78a9ff
+  brightPurple #be95ff
+  brightCyan   #82cfff
+  brightWhite  #ffffff
+
+cursor             #78a9ff
+selection bg       #393939
+
+
+LIGHT — Base16 palette
+----------------------
+base00  #ffffff  background
+base01  #f2f2f2  raised background
+base02  #d0d0d0  selection, ANSI white
+base03  #161616  ANSI bright black
+base04  #37474f  foreground (Normal)
+base05  #90a4ae  muted foreground
+base06  #525252  dark gray, ANSI black
+base07  #08bdba  teal
+base08  #ff7eb6  pink
+base09  #ee5396  red / pink
+base0A  #ff6f00  orange
+base0B  #0f62fe  blue
+base0C  #673ab7  violet
+base0D  #42be65  green
+base0E  #be95ff  purple
+base0F  #ffab91  peach
+
+LIGHT — ANSI mapping
+--------------------
+normal:
+  black        #525252
+  red          #ee5396
+  green        #42be65
+  yellow       #ff6f00
+  blue         #0f62fe
+  purple       #673ab7
+  cyan         #08bdba
+  white        #d0d0d0
+
+bright:
+  brightBlack  #161616
+  brightRed    #ee5396
+  brightGreen  #42be65
+  brightYellow #ff6f00
+  brightBlue   #0f62fe
+  brightPurple #673ab7
+  brightCyan   #08bdba
+  brightWhite  #ffffff
+
+cursor             #0f62fe
+selection bg       #d0d0d0
+
+
+NOTES FOR PORT AUTHORS
+----------------------
+- The ANSI mapping above follows the official Nyoom terminal ports
+  (oxocarbon-alacritty / oxocarbon-wezterm), not nvim's terminal_color_*
+  values. The nvim mapping reuses blue/purple/green for red/yellow, which is
+  faithful to the scheme but confusing in a shell.
+- Yellow #ffe97b exists only in the terminal ports; it is not in the Neovim
+  palette. Add it as an extension rather than forcing it into a Base16 slot.
+- Prefer foreground #d0d0d0 (dark) / #37474f (light) over pure white/black;
+  those are the exact Normal foregrounds.
+- The light palette's pastel ANSI accents are low-contrast on #ffffff
+  (roughly 2.3-3.3:1 for green, cyan, yellow, red). That is faithful to the
+  upstream light palette. Dark is the high-contrast option.

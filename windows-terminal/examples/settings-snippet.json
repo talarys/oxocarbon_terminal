@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "dark": "Oxocarbon Dark",
+    "light": "Oxocarbon Light"
+  },
+  "profiles": {
+    "defaults": {
+      "colorScheme": "Oxocarbon Dark"
+    }
+  }
+}

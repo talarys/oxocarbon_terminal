@@ -1,0 +1,20 @@
+scheme: "Oxocarbon Light"
+author: "Nyoom Engineering (https://github.com/nyoom-engineering/oxocarbon.nvim)"
+variant: "light"
+
+base00: "ffffff"  # background
+base01: "f2f2f2"  # raised background
+base02: "d0d0d0"  # selection / ANSI white
+base03: "161616"  # ANSI bright black
+base04: "37474f"  # foreground
+base05: "90a4ae"  # muted foreground
+base06: "525252"  # dark gray / ANSI black
+base07: "08bdba"  # teal
+base08: "ff7eb6"  # pink
+base09: "ee5396"  # red / pink
+base0A: "ff6f00"  # orange
+base0B: "0f62fe"  # blue
+base0C: "673ab7"  # violet
+base0D: "42be65"  # green
+base0E: "be95ff"  # purple
+base0F: "ffab91"  # peach
